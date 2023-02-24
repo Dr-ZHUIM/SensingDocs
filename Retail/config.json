@@ -1,0 +1,9 @@
+{
+  "signature": {
+    "Intro": true,
+    "DevelopmentGuide": true,
+    "ConfigGuide": true,
+    "Q&A": true,
+    "Release": true
+  }
+}
